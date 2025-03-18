@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there 👋
+[![Rosty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rrostyy&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rrostyy&layout=compact&theme=radical&card_width=445&hide=CSS,HTML&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I studied at [BUAA](https://en.wikipedia.org/wiki/Beihang_University) four years
+- 👯 I’m currently study at [RUC](https://en.wikipedia.org/wiki/Renmin_University_of_China)
+- 🌱 I’m currently learning [LLM](https://en.wikipedia.org/wiki/Large_language_model)
+- 📃 Welcome to visit my [blog](https://matrix53.github.io)
+- 📫 How to reach me: <a href="mailto:769463137@qq.com">email</a>
 
 <!--
 **Rrostyy/Rrostyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
